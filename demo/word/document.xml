@@ -1,0 +1,1765 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+    <w:body>
+        <w:p w14:paraId="00000002">
+            <w:pPr>
+                <w:pStyle w:val="Heading2" />
+                <w:spacing w:line="530" w:after="177" />
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                    <w:color w:val="001233" />
+                    <w:sz w:val="44" />
+                </w:rPr>
+                <w:t>Discover the riches of our editor ✨</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="00000003">
+            <w:pPr>
+                <w:spacing w:line="384" />
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                    <w:color w:val="001233" />
+                </w:rPr>
+                <w:t>Read on to better understand the functionalities you can test with this demo.</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="00000004">
+            <w:pPr>
+                <w:pStyle w:val="Heading3" />
+                <w:spacing w:line="426" w:after="142" />
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                    <w:color w:val="001233" />
+                    <w:sz w:val="36" />
+                </w:rPr>
+                <w:t>💡 Did you know that…</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="00000005">
+            <w:pPr>
+                <w:numPr>
+                    <w:ilvl w:val="0" />
+                    <w:numId w:val="1" />
+                </w:numPr>
+                <w:spacing w:line="384" w:after="0" />
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                    <w:color w:val="001233" />
+                </w:rPr>
+                <w:t xml:space="preserve">CKEditor is </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                    <w:b w:val="1" />
+                    <w:color w:val="001233" />
+                </w:rPr>
+                <w:t>customizable</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                    <w:color w:val="001233" />
+                </w:rPr>
+                <w:t>. You can fine-tune the set of enabled plugins, available toolbar buttons, and the behavior of features.</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="00000006">
+            <w:pPr>
+                <w:numPr>
+                    <w:ilvl w:val="0" />
+                    <w:numId w:val="1" />
+                </w:numPr>
+                <w:spacing w:line="384" w:after="0" />
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                    <w:color w:val="001233" />
+                </w:rPr>
+                <w:t xml:space="preserve">The editor supports </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                    <w:b w:val="1" />
+                    <w:color w:val="001233" />
+                </w:rPr>
+                <w:t>@mentions</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                    <w:color w:val="001233" />
+                </w:rPr>
+                <w:t xml:space="preserve">. Start typing </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rStyle w:val="Code" />
+                    <w:color w:val="353535" />
+                    <w:sz w:val="20" />
+                </w:rPr>
+                <w:t>@An</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                    <w:color w:val="001233" />
+                </w:rPr>
+                <w:t xml:space="preserve"> to see available suggestions.</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="00000007">
+            <w:pPr>
+                <w:numPr>
+                    <w:ilvl w:val="0" />
+                    <w:numId w:val="1" />
+                </w:numPr>
+                <w:spacing w:line="384" w:after="0" />
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                    <w:color w:val="001233" />
+                </w:rPr>
+                <w:t xml:space="preserve">You can also insert dynamic placeholders within the content using </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                    <w:b w:val="1" />
+                    <w:color w:val="001233" />
+                </w:rPr>
+                <w:t>merge fields</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                    <w:color w:val="001233" />
+                </w:rPr>
+                <w:t xml:space="preserve">! Start typing </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rStyle w:val="Code" />
+                    <w:color w:val="353535" />
+                    <w:sz w:val="20" />
+                </w:rPr>
+                <w:t>{{</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                    <w:color w:val="001233" />
+                </w:rPr>
+                <w:t xml:space="preserve"> or use the </w:t>
+            </w:r>
+            <w:r>
+                <w:drawing xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                    <wp:inline>
+                        <wp:extent cx="190500" cy="190500" />
+                        <wp:docPr id="1" name="Picture 1" descr="Insert merge field" />
+                        <a:graphic>
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                <pic:pic>
+                                    <pic:nvPicPr>
+                                        <pic:cNvPr id="2" name="Picture 1" descr="Insert merge field" />
+                                        <pic:cNvPicPr />
+                                    </pic:nvPicPr>
+                                    <pic:blipFill>
+                                        <a:blip r:embed="rId2" />
+                                        <a:srcRect />
+                                        <a:stretch>
+                                            <a:fillRect />
+                                        </a:stretch>
+                                    </pic:blipFill>
+                                    <pic:spPr bwMode="auto">
+                                        <a:xfrm>
+                                            <a:off x="0" y="0" />
+                                            <a:ext cx="190500" cy="190500" />
+                                        </a:xfrm>
+                                        <a:prstGeom prst="rect" />
+                                    </pic:spPr>
+                                </pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                    <w:color w:val="001233" />
+                </w:rPr>
+                <w:t xml:space="preserve"> button to insert them. Use the </w:t>
+            </w:r>
+            <w:r>
+                <w:drawing xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                    <wp:inline>
+                        <wp:extent cx="190500" cy="190500" />
+                        <wp:docPr id="3" name="Picture 2" descr="Preview merge field" />
+                        <a:graphic>
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                <pic:pic>
+                                    <pic:nvPicPr>
+                                        <pic:cNvPr id="4" name="Picture 2" descr="Preview merge field" />
+                                        <pic:cNvPicPr />
+                                    </pic:nvPicPr>
+                                    <pic:blipFill>
+                                        <a:blip r:embed="rId3" />
+                                        <a:srcRect />
+                                        <a:stretch>
+                                            <a:fillRect />
+                                        </a:stretch>
+                                    </pic:blipFill>
+                                    <pic:spPr bwMode="auto">
+                                        <a:xfrm>
+                                            <a:off x="0" y="0" />
+                                            <a:ext cx="190500" cy="190500" />
+                                        </a:xfrm>
+                                        <a:prstGeom prst="rect" />
+                                    </pic:spPr>
+                                </pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                    <w:color w:val="001233" />
+                </w:rPr>
+                <w:t xml:space="preserve"> button to preview values. </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                    <w:color w:val="001233" />
+                </w:rPr>
+                <w:fldChar w:fldCharType="begin" />
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                    <w:color w:val="001233" />
+                </w:rPr>
+                <w:instrText>MERGEFIELD mergeFieldExample</w:instrText>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                    <w:color w:val="001233" />
+                </w:rPr>
+                <w:fldChar w:fldCharType="separate" />
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                    <w:color w:val="001233" />
+                </w:rPr>
+                <w:t>«mergeFieldExample»</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                    <w:color w:val="001233" />
+                </w:rPr>
+                <w:fldChar w:fldCharType="end" />
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="00000008">
+            <w:pPr>
+                <w:numPr>
+                    <w:ilvl w:val="0" />
+                    <w:numId w:val="1" />
+                </w:numPr>
+                <w:spacing w:line="384" w:after="0" />
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                    <w:color w:val="001233" />
+                </w:rPr>
+                <w:t xml:space="preserve">You can </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                    <w:b w:val="1" />
+                    <w:color w:val="001233" />
+                </w:rPr>
+                <w:t>paste content</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                    <w:color w:val="001233" />
+                </w:rPr>
+                <w:t xml:space="preserve"> from Word or Google Docs, retaining the original document structure and formatting.</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="00000009">
+            <w:pPr>
+                <w:numPr>
+                    <w:ilvl w:val="0" />
+                    <w:numId w:val="1" />
+                </w:numPr>
+                <w:spacing w:line="384" w:after="0" />
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                    <w:color w:val="001233" />
+                </w:rPr>
+                <w:t xml:space="preserve">Thanks to Import from Word </w:t>
+            </w:r>
+            <w:r>
+                <w:drawing xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                    <wp:inline>
+                        <wp:extent cx="190500" cy="190500" />
+                        <wp:docPr id="5" name="Picture 3" descr="Import from Word" />
+                        <a:graphic>
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                <pic:pic>
+                                    <pic:nvPicPr>
+                                        <pic:cNvPr id="6" name="Picture 3" descr="Import from Word" />
+                                        <pic:cNvPicPr />
+                                    </pic:nvPicPr>
+                                    <pic:blipFill>
+                                        <a:blip r:embed="rId4" />
+                                        <a:srcRect />
+                                        <a:stretch>
+                                            <a:fillRect />
+                                        </a:stretch>
+                                    </pic:blipFill>
+                                    <pic:spPr bwMode="auto">
+                                        <a:xfrm>
+                                            <a:off x="0" y="0" />
+                                            <a:ext cx="190500" cy="190500" />
+                                        </a:xfrm>
+                                        <a:prstGeom prst="rect" />
+                                    </pic:spPr>
+                                </pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                    <w:color w:val="001233" />
+                </w:rPr>
+                <w:t xml:space="preserve">, you can </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                    <w:b w:val="1" />
+                    <w:color w:val="001233" />
+                </w:rPr>
+                <w:t>convert</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                    <w:color w:val="001233" />
+                </w:rPr>
+                <w:t xml:space="preserve"> a DOCX document into HTML and edit it in CKEditor 5.</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="0000000A">
+            <w:pPr>
+                <w:numPr>
+                    <w:ilvl w:val="0" />
+                    <w:numId w:val="1" />
+                </w:numPr>
+                <w:spacing w:line="384" w:after="0" />
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                    <w:color w:val="001233" />
+                </w:rPr>
+                <w:t xml:space="preserve">You can </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                    <w:b w:val="1" />
+                    <w:color w:val="001233" />
+                </w:rPr>
+                <w:t>export your document</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                    <w:color w:val="001233" />
+                </w:rPr>
+                <w:t xml:space="preserve"> to PDF </w:t>
+            </w:r>
+            <w:r>
+                <w:drawing xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                    <wp:inline>
+                        <wp:extent cx="190500" cy="190500" />
+                        <wp:docPr id="7" name="Picture 4" descr="Export to PDF" />
+                        <a:graphic>
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                <pic:pic>
+                                    <pic:nvPicPr>
+                                        <pic:cNvPr id="8" name="Picture 4" descr="Export to PDF" />
+                                        <pic:cNvPicPr />
+                                    </pic:nvPicPr>
+                                    <pic:blipFill>
+                                        <a:blip r:embed="rId5" />
+                                        <a:srcRect />
+                                        <a:stretch>
+                                            <a:fillRect />
+                                        </a:stretch>
+                                    </pic:blipFill>
+                                    <pic:spPr bwMode="auto">
+                                        <a:xfrm>
+                                            <a:off x="0" y="0" />
+                                            <a:ext cx="190500" cy="190500" />
+                                        </a:xfrm>
+                                        <a:prstGeom prst="rect" />
+                                    </pic:spPr>
+                                </pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                    <w:color w:val="001233" />
+                </w:rPr>
+                <w:t xml:space="preserve"> or Word </w:t>
+            </w:r>
+            <w:r>
+                <w:drawing xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                    <wp:inline>
+                        <wp:extent cx="190500" cy="190500" />
+                        <wp:docPr id="9" name="Picture 5" descr="Export to Word" />
+                        <a:graphic>
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                <pic:pic>
+                                    <pic:nvPicPr>
+                                        <pic:cNvPr id="10" name="Picture 5" descr="Export to Word" />
+                                        <pic:cNvPicPr />
+                                    </pic:nvPicPr>
+                                    <pic:blipFill>
+                                        <a:blip r:embed="rId6" />
+                                        <a:srcRect />
+                                        <a:stretch>
+                                            <a:fillRect />
+                                        </a:stretch>
+                                    </pic:blipFill>
+                                    <pic:spPr bwMode="auto">
+                                        <a:xfrm>
+                                            <a:off x="0" y="0" />
+                                            <a:ext cx="190500" cy="190500" />
+                                        </a:xfrm>
+                                        <a:prstGeom prst="rect" />
+                                    </pic:spPr>
+                                </pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                    <w:color w:val="001233" />
+                </w:rPr>
+                <w:t xml:space="preserve"> with a single click.</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="0000000B">
+            <w:pPr>
+                <w:numPr>
+                    <w:ilvl w:val="0" />
+                    <w:numId w:val="1" />
+                </w:numPr>
+                <w:spacing w:line="384" />
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                    <w:color w:val="001233" />
+                </w:rPr>
+                <w:t xml:space="preserve">This demo showcases </w:t>
+            </w:r>
+            <w:hyperlink r:id="rId7">
+                <w:r>
+                    <w:rPr>
+                        <w:rStyle w:val="Hyperlink" />
+                        <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                    </w:rPr>
+                    <w:t>CKBox</w:t>
+                </w:r>
+            </w:hyperlink>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                    <w:color w:val="001233" />
+                </w:rPr>
+                <w:t xml:space="preserve"> </w:t>
+            </w:r>
+            <w:r>
+                <w:drawing xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                    <wp:inline>
+                        <wp:extent cx="190500" cy="190500" />
+                        <wp:docPr id="11" name="Picture 6" descr="Browse files" />
+                        <a:graphic>
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                <pic:pic>
+                                    <pic:nvPicPr>
+                                        <pic:cNvPr id="12" name="Picture 6" descr="Browse files" />
+                                        <pic:cNvPicPr />
+                                    </pic:nvPicPr>
+                                    <pic:blipFill>
+                                        <a:blip r:embed="rId8" />
+                                        <a:srcRect />
+                                        <a:stretch>
+                                            <a:fillRect />
+                                        </a:stretch>
+                                    </pic:blipFill>
+                                    <pic:spPr bwMode="auto">
+                                        <a:xfrm>
+                                            <a:off x="0" y="0" />
+                                            <a:ext cx="190500" cy="190500" />
+                                        </a:xfrm>
+                                        <a:prstGeom prst="rect" />
+                                    </pic:spPr>
+                                </pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                    <w:color w:val="001233" />
+                </w:rPr>
+                <w:t xml:space="preserve"> to </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                    <w:b w:val="1" />
+                    <w:color w:val="001233" />
+                </w:rPr>
+                <w:t>manage images and other files</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                    <w:color w:val="001233" />
+                </w:rPr>
+                <w:t>. You can enable your own upload adapter instead.</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="0000000C">
+            <w:pPr>
+                <w:pStyle w:val="Heading3" />
+                <w:spacing w:line="426" w:after="142" />
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                    <w:color w:val="001233" />
+                    <w:sz w:val="36" />
+                </w:rPr>
+                <w:t>🚀 Autoformatting in CKEditor 5</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="0000000D">
+            <w:pPr>
+                <w:spacing w:line="384" />
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                    <w:color w:val="001233" />
+                </w:rPr>
+                <w:t xml:space="preserve">Some features of CKEditor 5 might be hard to spot at first glance. Thanks to </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                    <w:b w:val="1" />
+                    <w:color w:val="001233" />
+                </w:rPr>
+                <w:t>autoformatting</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                    <w:color w:val="001233" />
+                </w:rPr>
+                <w:t>, you can use handy shortcuts in the editor to format the text on the fly:</w:t>
+            </w:r>
+        </w:p>
+        <w:tbl>
+            <w:tblPr>
+                <w:tblStyle w:val="TableBasic" />
+                <w:tblW w:type="dxa" w:w="7126" />
+                <w:jc w:val="center" />
+                <w:tblBorders>
+                    <w:top w:sz="6" w:val="single" w:color="B3B3B3" />
+                    <w:left w:sz="6" w:val="single" w:color="B3B3B3" />
+                    <w:bottom w:sz="6" w:val="single" w:color="B3B3B3" />
+                    <w:right w:sz="6" w:val="single" w:color="B3B3B3" />
+                </w:tblBorders>
+            </w:tblPr>
+            <w:tr>
+                <w:trPr>
+                    <w:trHeight w:hRule="atLeast" w:val="686" />
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:type="dxa" w:w="1638" />
+                        <w:vMerge w:val="restart" />
+                        <w:tcBorders>
+                            <w:top w:sz="6" w:val="single" w:color="B3B3B3" />
+                            <w:left w:sz="6" w:val="single" w:color="B3B3B3" />
+                            <w:bottom w:sz="6" w:val="single" w:color="BFBFBF" />
+                            <w:right w:sz="6" w:val="single" w:color="BFBFBF" />
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:fill="E6E6E6" />
+                        <w:vAlign w:val="center" />
+                        <w:tcMar>
+                            <w:top w:type="dxa" w:w="96" />
+                            <w:left w:type="dxa" w:w="96" />
+                            <w:bottom w:type="dxa" w:w="96" />
+                            <w:right w:type="dxa" w:w="96" />
+                        </w:tcMar>
+                    </w:tcPr>
+                    <w:p w14:paraId="0000000E">
+                        <w:pPr>
+                            <w:spacing w:line="336" w:after="0" />
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                                <w:b w:val="1" />
+                                <w:color w:val="001233" />
+                            </w:rPr>
+                            <w:t>Block formatting</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:type="dxa" w:w="1477" />
+                        <w:tcBorders>
+                            <w:top w:sz="6" w:val="single" w:color="B3B3B3" />
+                            <w:bottom w:sz="6" w:val="single" w:color="BFBFBF" />
+                            <w:right w:sz="6" w:val="single" w:color="BFBFBF" />
+                        </w:tcBorders>
+                        <w:vAlign w:val="center" />
+                        <w:tcMar>
+                            <w:top w:type="dxa" w:w="96" />
+                            <w:left w:type="dxa" w:w="96" />
+                            <w:bottom w:type="dxa" w:w="96" />
+                            <w:right w:type="dxa" w:w="96" />
+                        </w:tcMar>
+                    </w:tcPr>
+                    <w:p w14:paraId="0000000F">
+                        <w:pPr>
+                            <w:spacing w:line="336" w:after="0" />
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                                <w:color w:val="001233" />
+                            </w:rPr>
+                            <w:t>Bulleted list</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:type="dxa" w:w="3996" />
+                        <w:tcBorders>
+                            <w:top w:sz="6" w:val="single" w:color="B3B3B3" />
+                            <w:bottom w:sz="6" w:val="single" w:color="BFBFBF" />
+                            <w:right w:sz="6" w:val="single" w:color="B3B3B3" />
+                        </w:tcBorders>
+                        <w:vAlign w:val="center" />
+                        <w:tcMar>
+                            <w:top w:type="dxa" w:w="96" />
+                            <w:left w:type="dxa" w:w="96" />
+                            <w:bottom w:type="dxa" w:w="96" />
+                            <w:right w:type="dxa" w:w="96" />
+                        </w:tcMar>
+                    </w:tcPr>
+                    <w:p w14:paraId="00000010">
+                        <w:pPr>
+                            <w:spacing w:line="336" w:after="0" />
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                                <w:color w:val="001233" />
+                            </w:rPr>
+                            <w:t xml:space="preserve">Start a line with </w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rStyle w:val="Code" />
+                                <w:color w:val="353535" />
+                                <w:sz w:val="20" />
+                            </w:rPr>
+                            <w:t>*</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                                <w:color w:val="001233" />
+                            </w:rPr>
+                            <w:t xml:space="preserve"> or </w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rStyle w:val="Code" />
+                                <w:color w:val="353535" />
+                                <w:sz w:val="20" />
+                            </w:rPr>
+                            <w:t>-</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                                <w:color w:val="001233" />
+                            </w:rPr>
+                            <w:t xml:space="preserve"> followed by a space.</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr>
+                <w:trPr>
+                    <w:trHeight w:hRule="atLeast" w:val="686" />
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:vMerge w:val="continue" />
+                        <w:tcBorders>
+                            <w:top w:sz="6" w:val="single" w:color="B3B3B3" />
+                            <w:left w:sz="6" w:val="single" w:color="B3B3B3" />
+                            <w:bottom w:sz="6" w:val="single" w:color="BFBFBF" />
+                            <w:right w:sz="6" w:val="single" w:color="BFBFBF" />
+                        </w:tcBorders>
+                    </w:tcPr>
+                    <w:p w14:paraId="00000011" />
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:type="dxa" w:w="1477" />
+                        <w:tcBorders>
+                            <w:bottom w:sz="6" w:val="single" w:color="BFBFBF" />
+                            <w:right w:sz="6" w:val="single" w:color="BFBFBF" />
+                        </w:tcBorders>
+                        <w:vAlign w:val="center" />
+                        <w:tcMar>
+                            <w:top w:type="dxa" w:w="96" />
+                            <w:left w:type="dxa" w:w="96" />
+                            <w:bottom w:type="dxa" w:w="96" />
+                            <w:right w:type="dxa" w:w="96" />
+                        </w:tcMar>
+                    </w:tcPr>
+                    <w:p w14:paraId="00000012">
+                        <w:pPr>
+                            <w:spacing w:line="336" w:after="0" />
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                                <w:color w:val="001233" />
+                            </w:rPr>
+                            <w:t>Numbered list</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:type="dxa" w:w="3996" />
+                        <w:tcBorders>
+                            <w:bottom w:sz="6" w:val="single" w:color="BFBFBF" />
+                            <w:right w:sz="6" w:val="single" w:color="B3B3B3" />
+                        </w:tcBorders>
+                        <w:vAlign w:val="center" />
+                        <w:tcMar>
+                            <w:top w:type="dxa" w:w="96" />
+                            <w:left w:type="dxa" w:w="96" />
+                            <w:bottom w:type="dxa" w:w="96" />
+                            <w:right w:type="dxa" w:w="96" />
+                        </w:tcMar>
+                    </w:tcPr>
+                    <w:p w14:paraId="00000013">
+                        <w:pPr>
+                            <w:spacing w:line="336" w:after="0" />
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                                <w:color w:val="001233" />
+                            </w:rPr>
+                            <w:t xml:space="preserve">Start a line with </w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rStyle w:val="Code" />
+                                <w:color w:val="353535" />
+                                <w:sz w:val="20" />
+                            </w:rPr>
+                            <w:t>1.</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                                <w:color w:val="001233" />
+                            </w:rPr>
+                            <w:t xml:space="preserve"> or </w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rStyle w:val="Code" />
+                                <w:color w:val="353535" />
+                                <w:sz w:val="20" />
+                            </w:rPr>
+                            <w:t>1)</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                                <w:color w:val="001233" />
+                            </w:rPr>
+                            <w:t xml:space="preserve"> followed by a space.</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr>
+                <w:trPr>
+                    <w:trHeight w:hRule="atLeast" w:val="1022" />
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:vMerge w:val="continue" />
+                        <w:tcBorders>
+                            <w:top w:sz="6" w:val="single" w:color="B3B3B3" />
+                            <w:left w:sz="6" w:val="single" w:color="B3B3B3" />
+                            <w:bottom w:sz="6" w:val="single" w:color="BFBFBF" />
+                            <w:right w:sz="6" w:val="single" w:color="BFBFBF" />
+                        </w:tcBorders>
+                    </w:tcPr>
+                    <w:p w14:paraId="00000014" />
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:type="dxa" w:w="1477" />
+                        <w:tcBorders>
+                            <w:bottom w:sz="6" w:val="single" w:color="BFBFBF" />
+                            <w:right w:sz="6" w:val="single" w:color="BFBFBF" />
+                        </w:tcBorders>
+                        <w:vAlign w:val="center" />
+                        <w:tcMar>
+                            <w:top w:type="dxa" w:w="96" />
+                            <w:left w:type="dxa" w:w="96" />
+                            <w:bottom w:type="dxa" w:w="96" />
+                            <w:right w:type="dxa" w:w="96" />
+                        </w:tcMar>
+                    </w:tcPr>
+                    <w:p w14:paraId="00000015">
+                        <w:pPr>
+                            <w:spacing w:line="336" w:after="0" />
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                                <w:color w:val="001233" />
+                            </w:rPr>
+                            <w:t>To-do list</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:type="dxa" w:w="3996" />
+                        <w:tcBorders>
+                            <w:bottom w:sz="6" w:val="single" w:color="BFBFBF" />
+                            <w:right w:sz="6" w:val="single" w:color="B3B3B3" />
+                        </w:tcBorders>
+                        <w:vAlign w:val="center" />
+                        <w:tcMar>
+                            <w:top w:type="dxa" w:w="96" />
+                            <w:left w:type="dxa" w:w="96" />
+                            <w:bottom w:type="dxa" w:w="96" />
+                            <w:right w:type="dxa" w:w="96" />
+                        </w:tcMar>
+                    </w:tcPr>
+                    <w:p w14:paraId="00000016">
+                        <w:pPr>
+                            <w:spacing w:line="336" w:after="0" />
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                                <w:color w:val="001233" />
+                            </w:rPr>
+                            <w:t xml:space="preserve">Start a line with </w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rStyle w:val="Code" />
+                                <w:color w:val="353535" />
+                                <w:sz w:val="20" />
+                            </w:rPr>
+                            <w:t>[ ]</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                                <w:color w:val="001233" />
+                            </w:rPr>
+                            <w:t xml:space="preserve"> or </w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rStyle w:val="Code" />
+                                <w:color w:val="353535" />
+                                <w:sz w:val="20" />
+                            </w:rPr>
+                            <w:t>[x]</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                                <w:color w:val="001233" />
+                            </w:rPr>
+                            <w:t xml:space="preserve"> followed by a space to insert an unchecked or checked list item.</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr>
+                <w:trPr>
+                    <w:trHeight w:hRule="atLeast" w:val="1022" />
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:vMerge w:val="continue" />
+                        <w:tcBorders>
+                            <w:top w:sz="6" w:val="single" w:color="B3B3B3" />
+                            <w:left w:sz="6" w:val="single" w:color="B3B3B3" />
+                            <w:bottom w:sz="6" w:val="single" w:color="BFBFBF" />
+                            <w:right w:sz="6" w:val="single" w:color="BFBFBF" />
+                        </w:tcBorders>
+                    </w:tcPr>
+                    <w:p w14:paraId="00000017" />
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:type="dxa" w:w="1477" />
+                        <w:tcBorders>
+                            <w:bottom w:sz="6" w:val="single" w:color="BFBFBF" />
+                            <w:right w:sz="6" w:val="single" w:color="BFBFBF" />
+                        </w:tcBorders>
+                        <w:vAlign w:val="center" />
+                        <w:tcMar>
+                            <w:top w:type="dxa" w:w="96" />
+                            <w:left w:type="dxa" w:w="96" />
+                            <w:bottom w:type="dxa" w:w="96" />
+                            <w:right w:type="dxa" w:w="96" />
+                        </w:tcMar>
+                    </w:tcPr>
+                    <w:p w14:paraId="00000018">
+                        <w:pPr>
+                            <w:spacing w:line="336" w:after="0" />
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                                <w:color w:val="001233" />
+                            </w:rPr>
+                            <w:t>Headings</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:type="dxa" w:w="3996" />
+                        <w:tcBorders>
+                            <w:bottom w:sz="6" w:val="single" w:color="BFBFBF" />
+                            <w:right w:sz="6" w:val="single" w:color="B3B3B3" />
+                        </w:tcBorders>
+                        <w:vAlign w:val="center" />
+                        <w:tcMar>
+                            <w:top w:type="dxa" w:w="96" />
+                            <w:left w:type="dxa" w:w="96" />
+                            <w:bottom w:type="dxa" w:w="96" />
+                            <w:right w:type="dxa" w:w="96" />
+                        </w:tcMar>
+                    </w:tcPr>
+                    <w:p w14:paraId="00000019">
+                        <w:pPr>
+                            <w:spacing w:line="336" w:after="0" />
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                                <w:color w:val="001233" />
+                            </w:rPr>
+                            <w:t xml:space="preserve">Start a line with </w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rStyle w:val="Code" />
+                                <w:color w:val="353535" />
+                                <w:sz w:val="20" />
+                            </w:rPr>
+                            <w:t>#</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                                <w:color w:val="001233" />
+                            </w:rPr>
+                            <w:t xml:space="preserve">, </w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rStyle w:val="Code" />
+                                <w:color w:val="353535" />
+                                <w:sz w:val="20" />
+                            </w:rPr>
+                            <w:t>##</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                                <w:color w:val="001233" />
+                            </w:rPr>
+                            <w:t xml:space="preserve">, or </w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rStyle w:val="Code" />
+                                <w:color w:val="353535" />
+                                <w:sz w:val="20" />
+                            </w:rPr>
+                            <w:t>###</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                                <w:color w:val="001233" />
+                            </w:rPr>
+                            <w:t xml:space="preserve"> followed by a space to create a heading 1, heading 2, or heading 3.</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr>
+                <w:trPr>
+                    <w:trHeight w:hRule="atLeast" w:val="686" />
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:vMerge w:val="continue" />
+                        <w:tcBorders>
+                            <w:top w:sz="6" w:val="single" w:color="B3B3B3" />
+                            <w:left w:sz="6" w:val="single" w:color="B3B3B3" />
+                            <w:bottom w:sz="6" w:val="single" w:color="BFBFBF" />
+                            <w:right w:sz="6" w:val="single" w:color="BFBFBF" />
+                        </w:tcBorders>
+                    </w:tcPr>
+                    <w:p w14:paraId="0000001A" />
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:type="dxa" w:w="1477" />
+                        <w:tcBorders>
+                            <w:bottom w:sz="6" w:val="single" w:color="BFBFBF" />
+                            <w:right w:sz="6" w:val="single" w:color="BFBFBF" />
+                        </w:tcBorders>
+                        <w:vAlign w:val="center" />
+                        <w:tcMar>
+                            <w:top w:type="dxa" w:w="96" />
+                            <w:left w:type="dxa" w:w="96" />
+                            <w:bottom w:type="dxa" w:w="96" />
+                            <w:right w:type="dxa" w:w="96" />
+                        </w:tcMar>
+                    </w:tcPr>
+                    <w:p w14:paraId="0000001B">
+                        <w:pPr>
+                            <w:spacing w:line="336" w:after="0" />
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                                <w:color w:val="001233" />
+                            </w:rPr>
+                            <w:t>Block quote</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:type="dxa" w:w="3996" />
+                        <w:tcBorders>
+                            <w:bottom w:sz="6" w:val="single" w:color="BFBFBF" />
+                            <w:right w:sz="6" w:val="single" w:color="B3B3B3" />
+                        </w:tcBorders>
+                        <w:vAlign w:val="center" />
+                        <w:tcMar>
+                            <w:top w:type="dxa" w:w="96" />
+                            <w:left w:type="dxa" w:w="96" />
+                            <w:bottom w:type="dxa" w:w="96" />
+                            <w:right w:type="dxa" w:w="96" />
+                        </w:tcMar>
+                    </w:tcPr>
+                    <w:p w14:paraId="0000001C">
+                        <w:pPr>
+                            <w:spacing w:line="336" w:after="0" />
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                                <w:color w:val="001233" />
+                            </w:rPr>
+                            <w:t xml:space="preserve">Start a line with </w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rStyle w:val="Code" />
+                                <w:color w:val="353535" />
+                                <w:sz w:val="20" />
+                            </w:rPr>
+                            <w:t>&gt;</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                                <w:color w:val="001233" />
+                            </w:rPr>
+                            <w:t xml:space="preserve"> followed by a space.</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr>
+                <w:trPr>
+                    <w:trHeight w:hRule="atLeast" w:val="351" />
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:vMerge w:val="continue" />
+                        <w:tcBorders>
+                            <w:top w:sz="6" w:val="single" w:color="B3B3B3" />
+                            <w:left w:sz="6" w:val="single" w:color="B3B3B3" />
+                            <w:bottom w:sz="6" w:val="single" w:color="BFBFBF" />
+                            <w:right w:sz="6" w:val="single" w:color="BFBFBF" />
+                        </w:tcBorders>
+                    </w:tcPr>
+                    <w:p w14:paraId="0000001D" />
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:type="dxa" w:w="1477" />
+                        <w:tcBorders>
+                            <w:bottom w:sz="6" w:val="single" w:color="BFBFBF" />
+                            <w:right w:sz="6" w:val="single" w:color="BFBFBF" />
+                        </w:tcBorders>
+                        <w:vAlign w:val="center" />
+                        <w:tcMar>
+                            <w:top w:type="dxa" w:w="96" />
+                            <w:left w:type="dxa" w:w="96" />
+                            <w:bottom w:type="dxa" w:w="96" />
+                            <w:right w:type="dxa" w:w="96" />
+                        </w:tcMar>
+                    </w:tcPr>
+                    <w:p w14:paraId="0000001E">
+                        <w:pPr>
+                            <w:spacing w:line="336" w:after="0" />
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                                <w:color w:val="001233" />
+                            </w:rPr>
+                            <w:t>Code block</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:type="dxa" w:w="3996" />
+                        <w:tcBorders>
+                            <w:bottom w:sz="6" w:val="single" w:color="BFBFBF" />
+                            <w:right w:sz="6" w:val="single" w:color="B3B3B3" />
+                        </w:tcBorders>
+                        <w:vAlign w:val="center" />
+                        <w:tcMar>
+                            <w:top w:type="dxa" w:w="96" />
+                            <w:left w:type="dxa" w:w="96" />
+                            <w:bottom w:type="dxa" w:w="96" />
+                            <w:right w:type="dxa" w:w="96" />
+                        </w:tcMar>
+                    </w:tcPr>
+                    <w:p w14:paraId="0000001F">
+                        <w:pPr>
+                            <w:spacing w:line="336" w:after="0" />
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                                <w:color w:val="001233" />
+                            </w:rPr>
+                            <w:t xml:space="preserve">Start a line with </w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rStyle w:val="Code" />
+                                <w:color w:val="353535" />
+                                <w:sz w:val="20" />
+                            </w:rPr>
+                            <w:t>```</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                                <w:color w:val="001233" />
+                            </w:rPr>
+                            <w:t>.</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr>
+                <w:trPr>
+                    <w:trHeight w:hRule="atLeast" w:val="686" />
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:vMerge w:val="continue" />
+                        <w:tcBorders>
+                            <w:top w:sz="6" w:val="single" w:color="B3B3B3" />
+                            <w:left w:sz="6" w:val="single" w:color="B3B3B3" />
+                            <w:bottom w:sz="6" w:val="single" w:color="BFBFBF" />
+                            <w:right w:sz="6" w:val="single" w:color="BFBFBF" />
+                        </w:tcBorders>
+                    </w:tcPr>
+                    <w:p w14:paraId="00000020" />
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:type="dxa" w:w="1477" />
+                        <w:tcBorders>
+                            <w:bottom w:sz="6" w:val="single" w:color="BFBFBF" />
+                            <w:right w:sz="6" w:val="single" w:color="BFBFBF" />
+                        </w:tcBorders>
+                        <w:vAlign w:val="center" />
+                        <w:tcMar>
+                            <w:top w:type="dxa" w:w="96" />
+                            <w:left w:type="dxa" w:w="96" />
+                            <w:bottom w:type="dxa" w:w="96" />
+                            <w:right w:type="dxa" w:w="96" />
+                        </w:tcMar>
+                    </w:tcPr>
+                    <w:p w14:paraId="00000021">
+                        <w:pPr>
+                            <w:spacing w:line="336" w:after="0" />
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                                <w:color w:val="001233" />
+                            </w:rPr>
+                            <w:t>Horizontal line</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:type="dxa" w:w="3996" />
+                        <w:tcBorders>
+                            <w:bottom w:sz="6" w:val="single" w:color="BFBFBF" />
+                            <w:right w:sz="6" w:val="single" w:color="B3B3B3" />
+                        </w:tcBorders>
+                        <w:vAlign w:val="center" />
+                        <w:tcMar>
+                            <w:top w:type="dxa" w:w="96" />
+                            <w:left w:type="dxa" w:w="96" />
+                            <w:bottom w:type="dxa" w:w="96" />
+                            <w:right w:type="dxa" w:w="96" />
+                        </w:tcMar>
+                    </w:tcPr>
+                    <w:p w14:paraId="00000022">
+                        <w:pPr>
+                            <w:spacing w:line="336" w:after="0" />
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                                <w:color w:val="001233" />
+                            </w:rPr>
+                            <w:t xml:space="preserve">Start a line with </w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rStyle w:val="Code" />
+                                <w:color w:val="353535" />
+                                <w:sz w:val="20" />
+                            </w:rPr>
+                            <w:t>---</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                                <w:color w:val="001233" />
+                            </w:rPr>
+                            <w:t>.</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr>
+                <w:trPr>
+                    <w:trHeight w:hRule="atLeast" w:val="351" />
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:type="dxa" w:w="1638" />
+                        <w:vMerge w:val="restart" />
+                        <w:tcBorders>
+                            <w:left w:sz="6" w:val="single" w:color="B3B3B3" />
+                            <w:bottom w:sz="6" w:val="single" w:color="BFBFBF" />
+                            <w:right w:sz="6" w:val="single" w:color="BFBFBF" />
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:fill="E6E6E6" />
+                        <w:vAlign w:val="center" />
+                        <w:tcMar>
+                            <w:top w:type="dxa" w:w="96" />
+                            <w:left w:type="dxa" w:w="96" />
+                            <w:bottom w:type="dxa" w:w="96" />
+                            <w:right w:type="dxa" w:w="96" />
+                        </w:tcMar>
+                    </w:tcPr>
+                    <w:p w14:paraId="00000023">
+                        <w:pPr>
+                            <w:spacing w:line="336" w:after="0" />
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                                <w:b w:val="1" />
+                                <w:color w:val="001233" />
+                            </w:rPr>
+                            <w:t>Inline formatting</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:type="dxa" w:w="1477" />
+                        <w:tcBorders>
+                            <w:bottom w:sz="6" w:val="single" w:color="BFBFBF" />
+                            <w:right w:sz="6" w:val="single" w:color="BFBFBF" />
+                        </w:tcBorders>
+                        <w:vAlign w:val="center" />
+                        <w:tcMar>
+                            <w:top w:type="dxa" w:w="96" />
+                            <w:left w:type="dxa" w:w="96" />
+                            <w:bottom w:type="dxa" w:w="96" />
+                            <w:right w:type="dxa" w:w="96" />
+                        </w:tcMar>
+                    </w:tcPr>
+                    <w:p w14:paraId="00000024">
+                        <w:pPr>
+                            <w:spacing w:line="336" w:after="0" />
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                                <w:b w:val="1" />
+                                <w:color w:val="001233" />
+                            </w:rPr>
+                            <w:t>Bold</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:type="dxa" w:w="3996" />
+                        <w:tcBorders>
+                            <w:bottom w:sz="6" w:val="single" w:color="BFBFBF" />
+                            <w:right w:sz="6" w:val="single" w:color="B3B3B3" />
+                        </w:tcBorders>
+                        <w:vAlign w:val="center" />
+                        <w:tcMar>
+                            <w:top w:type="dxa" w:w="96" />
+                            <w:left w:type="dxa" w:w="96" />
+                            <w:bottom w:type="dxa" w:w="96" />
+                            <w:right w:type="dxa" w:w="96" />
+                        </w:tcMar>
+                    </w:tcPr>
+                    <w:p w14:paraId="00000025">
+                        <w:pPr>
+                            <w:spacing w:line="336" w:after="0" />
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                                <w:color w:val="001233" />
+                            </w:rPr>
+                            <w:t xml:space="preserve">Type </w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rStyle w:val="Code" />
+                                <w:color w:val="353535" />
+                                <w:sz w:val="20" />
+                            </w:rPr>
+                            <w:t>**</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                                <w:color w:val="001233" />
+                            </w:rPr>
+                            <w:t xml:space="preserve"> or </w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rStyle w:val="Code" />
+                                <w:color w:val="353535" />
+                                <w:sz w:val="20" />
+                            </w:rPr>
+                            <w:t>__</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                                <w:color w:val="001233" />
+                            </w:rPr>
+                            <w:t xml:space="preserve"> around your text.</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr>
+                <w:trPr>
+                    <w:trHeight w:hRule="atLeast" w:val="351" />
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:vMerge w:val="continue" />
+                        <w:tcBorders>
+                            <w:left w:sz="6" w:val="single" w:color="B3B3B3" />
+                            <w:bottom w:sz="6" w:val="single" w:color="BFBFBF" />
+                            <w:right w:sz="6" w:val="single" w:color="BFBFBF" />
+                        </w:tcBorders>
+                    </w:tcPr>
+                    <w:p w14:paraId="00000026" />
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:type="dxa" w:w="1477" />
+                        <w:tcBorders>
+                            <w:bottom w:sz="6" w:val="single" w:color="BFBFBF" />
+                            <w:right w:sz="6" w:val="single" w:color="BFBFBF" />
+                        </w:tcBorders>
+                        <w:vAlign w:val="center" />
+                        <w:tcMar>
+                            <w:top w:type="dxa" w:w="96" />
+                            <w:left w:type="dxa" w:w="96" />
+                            <w:bottom w:type="dxa" w:w="96" />
+                            <w:right w:type="dxa" w:w="96" />
+                        </w:tcMar>
+                    </w:tcPr>
+                    <w:p w14:paraId="00000027">
+                        <w:pPr>
+                            <w:spacing w:line="336" w:after="0" />
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="MulishItalic" w:hAnsi="MulishItalic" w:cs="MulishItalic" w:eastAsia="MulishItalic" />
+                                <w:i w:val="1" />
+                                <w:color w:val="001233" />
+                            </w:rPr>
+                            <w:t>Italic</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:type="dxa" w:w="3996" />
+                        <w:tcBorders>
+                            <w:bottom w:sz="6" w:val="single" w:color="BFBFBF" />
+                            <w:right w:sz="6" w:val="single" w:color="B3B3B3" />
+                        </w:tcBorders>
+                        <w:vAlign w:val="center" />
+                        <w:tcMar>
+                            <w:top w:type="dxa" w:w="96" />
+                            <w:left w:type="dxa" w:w="96" />
+                            <w:bottom w:type="dxa" w:w="96" />
+                            <w:right w:type="dxa" w:w="96" />
+                        </w:tcMar>
+                    </w:tcPr>
+                    <w:p w14:paraId="00000028">
+                        <w:pPr>
+                            <w:spacing w:line="336" w:after="0" />
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                                <w:color w:val="001233" />
+                            </w:rPr>
+                            <w:t xml:space="preserve">Type </w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rStyle w:val="Code" />
+                                <w:color w:val="353535" />
+                                <w:sz w:val="20" />
+                            </w:rPr>
+                            <w:t>*</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                                <w:color w:val="001233" />
+                            </w:rPr>
+                            <w:t xml:space="preserve"> or </w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rStyle w:val="Code" />
+                                <w:color w:val="353535" />
+                                <w:sz w:val="20" />
+                            </w:rPr>
+                            <w:t>_</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                                <w:color w:val="001233" />
+                            </w:rPr>
+                            <w:t xml:space="preserve"> around your text.</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr>
+                <w:trPr>
+                    <w:trHeight w:hRule="atLeast" w:val="351" />
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:vMerge w:val="continue" />
+                        <w:tcBorders>
+                            <w:left w:sz="6" w:val="single" w:color="B3B3B3" />
+                            <w:bottom w:sz="6" w:val="single" w:color="BFBFBF" />
+                            <w:right w:sz="6" w:val="single" w:color="BFBFBF" />
+                        </w:tcBorders>
+                    </w:tcPr>
+                    <w:p w14:paraId="00000029" />
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:type="dxa" w:w="1477" />
+                        <w:tcBorders>
+                            <w:bottom w:sz="6" w:val="single" w:color="BFBFBF" />
+                            <w:right w:sz="6" w:val="single" w:color="BFBFBF" />
+                        </w:tcBorders>
+                        <w:vAlign w:val="center" />
+                        <w:tcMar>
+                            <w:top w:type="dxa" w:w="96" />
+                            <w:left w:type="dxa" w:w="96" />
+                            <w:bottom w:type="dxa" w:w="96" />
+                            <w:right w:type="dxa" w:w="96" />
+                        </w:tcMar>
+                    </w:tcPr>
+                    <w:p w14:paraId="0000002A">
+                        <w:pPr>
+                            <w:spacing w:line="336" w:after="0" />
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rStyle w:val="Code" />
+                                <w:color w:val="353535" />
+                                <w:sz w:val="20" />
+                            </w:rPr>
+                            <w:t>Code</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:type="dxa" w:w="3996" />
+                        <w:tcBorders>
+                            <w:bottom w:sz="6" w:val="single" w:color="BFBFBF" />
+                            <w:right w:sz="6" w:val="single" w:color="B3B3B3" />
+                        </w:tcBorders>
+                        <w:vAlign w:val="center" />
+                        <w:tcMar>
+                            <w:top w:type="dxa" w:w="96" />
+                            <w:left w:type="dxa" w:w="96" />
+                            <w:bottom w:type="dxa" w:w="96" />
+                            <w:right w:type="dxa" w:w="96" />
+                        </w:tcMar>
+                    </w:tcPr>
+                    <w:p w14:paraId="0000002B">
+                        <w:pPr>
+                            <w:spacing w:line="336" w:after="0" />
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                                <w:color w:val="001233" />
+                            </w:rPr>
+                            <w:t xml:space="preserve">Type </w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rStyle w:val="Code" />
+                                <w:color w:val="353535" />
+                                <w:sz w:val="20" />
+                            </w:rPr>
+                            <w:t>`</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                                <w:color w:val="001233" />
+                            </w:rPr>
+                            <w:t xml:space="preserve"> around your text.</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr>
+                <w:trPr>
+                    <w:trHeight w:hRule="atLeast" w:val="686" />
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:vMerge w:val="continue" />
+                        <w:tcBorders>
+                            <w:left w:sz="6" w:val="single" w:color="B3B3B3" />
+                            <w:bottom w:sz="6" w:val="single" w:color="BFBFBF" />
+                            <w:right w:sz="6" w:val="single" w:color="BFBFBF" />
+                        </w:tcBorders>
+                    </w:tcPr>
+                    <w:p w14:paraId="0000002C" />
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:type="dxa" w:w="1477" />
+                        <w:tcBorders>
+                            <w:bottom w:sz="6" w:val="single" w:color="B3B3B3" />
+                            <w:right w:sz="6" w:val="single" w:color="BFBFBF" />
+                        </w:tcBorders>
+                        <w:vAlign w:val="center" />
+                        <w:tcMar>
+                            <w:top w:type="dxa" w:w="96" />
+                            <w:left w:type="dxa" w:w="96" />
+                            <w:bottom w:type="dxa" w:w="96" />
+                            <w:right w:type="dxa" w:w="96" />
+                        </w:tcMar>
+                    </w:tcPr>
+                    <w:p w14:paraId="0000002D">
+                        <w:pPr>
+                            <w:spacing w:line="336" w:after="0" />
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                                <w:strike w:val="true" />
+                                <w:color w:val="001233" />
+                            </w:rPr>
+                            <w:t>Strikethrough</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:type="dxa" w:w="3996" />
+                        <w:tcBorders>
+                            <w:bottom w:sz="6" w:val="single" w:color="B3B3B3" />
+                            <w:right w:sz="6" w:val="single" w:color="B3B3B3" />
+                        </w:tcBorders>
+                        <w:vAlign w:val="center" />
+                        <w:tcMar>
+                            <w:top w:type="dxa" w:w="96" />
+                            <w:left w:type="dxa" w:w="96" />
+                            <w:bottom w:type="dxa" w:w="96" />
+                            <w:right w:type="dxa" w:w="96" />
+                        </w:tcMar>
+                    </w:tcPr>
+                    <w:p w14:paraId="0000002E">
+                        <w:pPr>
+                            <w:spacing w:line="336" w:after="0" />
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                                <w:color w:val="001233" />
+                            </w:rPr>
+                            <w:t xml:space="preserve">Type </w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rStyle w:val="Code" />
+                                <w:color w:val="353535" />
+                                <w:sz w:val="20" />
+                            </w:rPr>
+                            <w:t>~~</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                                <w:color w:val="001233" />
+                            </w:rPr>
+                            <w:t xml:space="preserve"> around your text.</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+        </w:tbl>
+        <w:p w14:paraId="0000002F">
+            <w:pPr>
+                <w:spacing w:line="384" />
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Mulish" w:hAnsi="Mulish" w:cs="Mulish" w:eastAsia="Mulish" />
+                    <w:color w:val="001233" />
+                </w:rPr>
+                <w:t> </w:t>
+            </w:r>
+        </w:p>
+        <w:sectPr>
+            <w:footerReference r:id="rId1" w:type="default" />
+            <w:pgSz w:w="11906" w:h="16838" w:orient="portrait" />
+            <w:pgMar w:top="907" w:bottom="907" w:left="1091" w:right="1091" />
+        </w:sectPr>
+    </w:body>
+</w:document>
